@@ -1,0 +1,65 @@
+<nav search_view="search" color="#0E3677">
+  <view name="search" default='true' />
+<!--
+  <view name="data_models" />
+  <view name="reports" />
+  <view name="alerts" />
+-->
+  <collection label="Sales">
+    <view name="product_monitoring" />
+    <view name="purchase_volumes" />
+  </collection>
+  <collection label="Performance">
+    <view name="operational_monitoring" />
+    <view name="website_monitoring" />
+    <view name="session_monitoring" />
+    <view name="predictive_analytics" />
+  </collection>
+    <collection label="Operations">
+    <view name="session_and_purchase_trends" />
+    <view name="web_hits" />
+  </collection>
+  <collection label="Visitors">
+    <view name="visitor_monitoring" />
+  </collection>
+  <collection label="Saved Reports">
+    <collection label="Chapter 1 - Play Time">
+         <saved source="unclassified" match="cp01" />
+     </collection>
+    <collection label="Chapter 2 - Diving into Data">
+         <saved source="unclassified" match="cp02" />
+     </collection>
+        <collection label="Chapter 3 - Dashboards
+          Visualizations">
+         <saved source="unclassified" match="cp03" />
+    </collection>
+    <collection label="Chapter 4 - Building an App">
+         <saved source="unclassified" match="cp04" />
+     </collection>
+    <collection label="Chapter 5 - Extending Intelligence">
+         <saved source="unclassified" match="cp05" />
+     </collection>
+      <collection label="Chapter 6 - Advanced Searching">
+         <saved source="unclassified" match="cp06" />
+     </collection>
+    <collection label="Chapter 7 - Enriching Data">
+         <saved source="unclassified" match="cp07" />
+     </collection>
+    <collection label="Chapter 8 - Being Proactive">
+         <saved source="unclassified" match="cp08" />
+     </collection>
+    <collection label="Chapter 9 - Speed Up Intelligence">
+         <saved source="unclassified" match="cp09" />
+     </collection>
+    <collection label="Chapter 10 - Above and Beyond">
+         <saved source="unclassified" match="cp10" />
+     </collection>
+    </collection>
+    <collection label="Administration">
+       <a href="http://docs.splunk.com">Splunk
+         Documentation</a>
+       <a href="http://apps.splunk.com">Splunk Apps</a>
+       <a href="https://discoveredintelligence.ca/getting-started-with-splunk/">Splunk Help</a>
+ <view name="dashboards" />
+    </collection>
+</nav>
