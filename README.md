@@ -19,11 +19,9 @@ Implementing Splunk 7, Third Edition https://github.com/PacktPublishing/Implemen
 Splunk Operational Intelligence Cookbook https://github.com/PacktPublishing/Splunk-Operational-Intelligence-Cookbook-Third-Edition
 
 ### Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name.
 
 The following code bundle contains a data generator which can be used to test the queries given in the book. However, since the data is randomly generated, not all queries will work as expected and you may have to modify them accordingly.
-
-You can find the steps to upload the dataset, ImplementingSplunkDataGenerator demo app in Chapter 1 under Data generator section
 
 Accordingly the use of other files is mentioned, as and when needed, in individual chapters of the book.
 
