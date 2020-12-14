@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/improving-your-splunk-skills/9781838981747)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Improving your Splunk skills
 Splunk makes it easy for you to take control of your data and drive your business with the cutting edge of operational intelligence and business analytics. Through this Learning Path, you'll implement new services and utilize them to quickly and efficiently process machine-generated big data.
 
