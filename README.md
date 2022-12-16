@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838981747)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Improving your Splunk skills
 Splunk makes it easy for you to take control of your data and drive your business with the cutting edge of operational intelligence and business analytics. Through this Learning Path, you'll implement new services and utilize them to quickly and efficiently process machine-generated big data.
 
